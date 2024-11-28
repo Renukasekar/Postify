@@ -1,0 +1,34 @@
+{
+  "post": [
+    {
+      "id": "1",
+      "title": "My First Post",
+      "datetime": "2024-11-14 10:00 AM",
+      "body": "Hello world! This is my very first post on this platform. Excited to connect with everyone!"
+    },
+    {
+      "id": "2",
+      "title": "A Day in Nature",
+      "datetime": "2024-11-13 03:45 PM",
+      "body": "Spent the day hiking in the mountains. The view was breathtaking, and I feel so refreshed."
+    },
+    {
+      "id": "3",
+      "title": "Tech Thoughts",
+      "datetime": "2024-11-12 09:30 AM",
+      "body": "Exploring the latest trends in AI technology. It's amazing how fast the world is evolving!"
+    },
+    {
+      "id": "4",
+      "title": "Foodie Adventures",
+      "datetime": "2024-11-11 07:00 PM",
+      "body": "Tried a new sushi place today! The dragon roll was out of this world."
+    },
+    {
+      "id": "6",
+      "title": "A ride to Kanyakumari",
+      "datetime": "November 27,2024 4:30:14 PM",
+      "body": "Today we both had a great ride to Kanyakumari and had a great experience in thotti paalam.\n\n"
+    }
+  ]
+}
